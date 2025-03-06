@@ -6,7 +6,7 @@ const classes = [
     title: "Children's Karate",
     age: "Ages 6-12",
     description: "A fun and structured introduction to karate fundamentals, focusing on coordination, discipline, and confidence building.",
-    image: "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1576137884495-b5ba47c9926f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
     schedule: [
       { day: "Monday & Wednesday", time: "4:00 PM - 5:00 PM" },
       { day: "Saturday", time: "10:00 AM - 11:00 AM" }
@@ -16,7 +16,7 @@ const classes = [
     title: "Teen Karate",
     age: "Ages 13-17",
     description: "An intermediate program that builds on basic techniques while introducing more advanced kata and kumite suitable for teenage practitioners.",
-    image: "https://images.unsplash.com/photo-1606335543042-57c525922933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
     schedule: [
       { day: "Tuesday & Thursday", time: "5:30 PM - 6:30 PM" },
       { day: "Saturday", time: "11:30 AM - 12:30 PM" }

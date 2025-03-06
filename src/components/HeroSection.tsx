@@ -52,7 +52,7 @@ const HeroSection = () => {
             <div className="absolute inset-0 bg-karate-red/10 rounded-full blur-3xl transform -translate-x-10 translate-y-10"></div>
             <div className="w-full h-full relative rounded-3xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1591941556741-5e4dfc274270?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" 
+                src="https://images.unsplash.com/photo-1555597673-b21d5c935865?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" 
                 alt="Karate master in action" 
                 className="w-full h-full object-cover object-center"
                 loading="eager"
