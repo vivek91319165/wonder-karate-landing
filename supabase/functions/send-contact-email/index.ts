@@ -40,7 +40,7 @@ const handler = async (req: Request): Promise<Response> => {
     // Send email to the karate school (admin notification)
     const adminEmail = await resend.emails.send({
       from: "Wonder Karate <onboarding@resend.dev>",
-      to: ["wonderkarate@example.com"], // Replace with your actual email
+      to: ["divyakhatri96300@gmail.com"], // Updated to the provided Gmail address
       subject: `New Contact Form Submission: ${subject || "No Subject"}`,
       html: `
         <h1>New Message from Website Contact Form</h1>
