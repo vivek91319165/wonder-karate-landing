@@ -1,4 +1,3 @@
-
 import { Calendar, Clock } from 'lucide-react';
 
 const classes = [
@@ -20,16 +19,6 @@ const classes = [
     schedule: [
       { day: "Tuesday & Thursday", time: "5:30 PM - 6:30 PM" },
       { day: "Saturday", time: "11:30 AM - 12:30 PM" }
-    ]
-  },
-  {
-    title: "Adult Karate",
-    age: "Ages 18+",
-    description: "A comprehensive program covering all aspects of karate training—kihon, kata, and kumite—adapted for adult practitioners of all fitness levels.",
-    image: "https://images.unsplash.com/photo-1533733759742-542575411dde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
-    schedule: [
-      { day: "Monday & Wednesday", time: "7:00 PM - 8:30 PM" },
-      { day: "Saturday", time: "9:00 AM - 10:30 AM" }
     ]
   }
 ];
